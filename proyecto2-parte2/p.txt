@@ -1,0 +1,1 @@
+((ArchivoAlmacen) (newline) (Retirar (quote J) 20 (quote (ArchivoAlmacen)) (quote (Almacen)) (quote (Ventanilla)) (quote (ArchivoVentanilla))))
